@@ -1,0 +1,12 @@
+/.idea/
+
+/backend/.idea/
+/backend/node_modules/
+
+/frontend/dist/
+/frontend/node_modules/
+
+
+/kontroBot/.idea/
+/kontroBot/out/
+/kontroBot/target/
